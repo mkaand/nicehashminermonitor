@@ -11,7 +11,7 @@ or email. I use ifttt.com and Telegram service for getting notification.
 Both are free. I hope you will like this script.
 
 ***************************************************************************
-**DONATION REQUEST PLEASE READ BEFORE YOU USE THIS SCRIPT**
+**DONATION REQUEST PLEASE READ BEFORE YOU USE THIS SCRIPT**<br>
 Before you start using this script, please respect my work. 
 I share this script as FREE OF CHARGE,
 But if you want to show your appreciation please make DONATION..
