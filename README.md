@@ -16,7 +16,7 @@ Before you start using this script, please respect my work.
 I share this script as FREE OF CHARGE,
 But if you want to show your appreciation please make DONATION..
 
-DONATION BTC: 1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx
+<b>DONATION BTC: 1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx</b>
 
 THANKS
 ****************************************************************************
@@ -45,5 +45,5 @@ Currently, NiceHashMiner is offline
 
 Screenshots:
 
-![Screenshot #1](/screenshot1.jpg?raw=true "Screenshot #1")
-![Screenshot #2](/screenshot2.jpg?raw=true "Screenshot #2")
+![Screenshot #1](/screenshot1.png?raw=true "Screenshot #1")
+![Screenshot #2](/screenshot2.png?raw=true "Screenshot #2")
