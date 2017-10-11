@@ -10,7 +10,8 @@ it generates RSS Feed. You can use this RSS feed for sending yourself a notifica
 or email. I use ifttt.com and Telegram service for getting notification.
 Both are free. I hope you will like this script.
 
-***********DONATION REQUEST PLEASE READ BEFORE YOU USE THIS SCRIPT**********
+***************************************************************************
+**DONATION REQUEST PLEASE READ BEFORE YOU USE THIS SCRIPT**
 Before you start using this script, please respect my work. 
 I share this script as FREE OF CHARGE,
 But if you want to show your appreciation please make DONATION..
@@ -19,9 +20,10 @@ DONATION BTC: 1LaZG8XELxs9JCzzVJaWyhxQG6tCcswJnx
 
 THANKS
 ****************************************************************************
+
 Requirements :
-PHP Hosting (Write permission for this file)
-Brain
+<br>PHP Hosting (Write permission for this file)
+<br>Brain
 
 Usage:
 Just change Settings and upload this script to your hosting.
@@ -40,3 +42,8 @@ If miner goes offline RSS entry changes:
 
 Miner is offline
 Currently, NiceHashMiner is offline
+
+Screenshots:
+
+![Screenshot #1](/screenshot1.jpg?raw=true "Screenshot #1")
+![Screenshot #2](/screenshot2.jpg?raw=true "Screenshot #2")
