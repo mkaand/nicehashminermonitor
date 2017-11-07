@@ -45,6 +45,14 @@ If miner goes offline RSS entry changes:
 Miner is offline
 Currently, NiceHashMiner is offline
 
+### ** Version History **
+
+* v1.02 - 07.11.2017<br>
+Uptime added.
+  
+* v1.01 - 07.10.2017<br>
+Initial version.
+
 Screenshots:
 
 ![Screenshot #1](/screenshot-1.png?raw=true "Screenshot #1")
