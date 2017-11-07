@@ -1,7 +1,7 @@
-# NiceHash RSS Feeder v1.01
+# NiceHash RSS Feeder v1.02
 
 Credits: Kaan Doğan Twitter: @mkaand
-Date: 07.10.2017
+Date: 07.11.2017
 
 This PHP scripts uses NiceHashMiner public API.
 It supports NiceHashMiner's all supported algoritmas.
