@@ -1,8 +1,8 @@
-﻿<?php
+<?php
 /*
-NiceHash RSS Feeder v1.01
+NiceHash RSS Feeder v1.02
 Credits: Kaan Doğan Twitter: @mkaand
-Date: 07.10.2017
+Date: 07.11.2017
 
 This PHP scripts uses NiceHashMiner public API.
 It supports NiceHashMiner's all supported algoritmas.
@@ -43,7 +43,7 @@ Miner is offline
 Currently, NiceHashMiner is offline
 
 */
-$online_offline="Miner is online"; //DO NOT CHANGE
+$online_offline="Miner is offline"; //DO NOT CHANGE
 
 ini_set('display_errors', 1);
 	
@@ -109,9 +109,16 @@ if ($data['result']['stats'][$i]['accepted_speed'] > 0) {
 
 }//for end
 
+$datetime1 = new DateTime(date("Y-m-d H:i:s",filemtime($myfile)));
+$datetime2 = new DateTime(date("Y-m-d H:i:s"));
+$interval = $datetime1->diff($datetime2);
+$uptime = " UPTIME: [".sprintf('%02d', $interval->format('%d'))." D|".sprintf('%02d', $interval->format('%H'))." H|".sprintf('%02d', $interval->format('%i'))." M]";
+
+
+
 if ($total_speed > 0) {
 $status = "Miner is online";
-$description = "Currently, NiceHash" . $status . " and working with" . $current_state;
+$description = "Currently, NiceHash" . $status . "." .$uptime." and working with" . $current_state;
 }else{
 $description = "Currently, NiceHash" . $status;
 }
