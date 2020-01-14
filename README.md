@@ -32,8 +32,6 @@ You can integrate with ifttt.com (free service).
 In my case ifttt.com checks this RSS feed, if miner is working,
 it sends me Telegram messages like:
 
-<b>Demo: http://kaan.dogan.org/nicehash_rss.php</b>
-
 Miner is online
 Currently, NiceHashMiner is online and working with 
 Sia [0.06 GH/s | 0.00000003 BTC] Blake2s [8.02 GH/s | 0.00008200 BTC]
